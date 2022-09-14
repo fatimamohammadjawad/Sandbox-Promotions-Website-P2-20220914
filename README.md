@@ -1,2 +1,6 @@
-# Sandbox-Promotions-Website-P2-20220914
+# Promotions Website
 CS10 Assignment 
+
+Reminders
+
+To Do List
